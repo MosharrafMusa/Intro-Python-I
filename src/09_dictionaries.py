@@ -52,4 +52,4 @@ print(waypoints[0])
 # YOUR CODE HERE
 for waypoint in waypoints:
     print(
-        f"'lat': {waypoint['lat']}, 'lon': {waypoint['lon']}, 'name': {waypoint['name']}")
+        f"lat: {waypoint['lat']}, lon: {waypoint['lon']}, name: {waypoint['name']}")
