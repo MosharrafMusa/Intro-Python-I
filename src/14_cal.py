@@ -40,4 +40,4 @@ elif length == 1:
 elif length == 2:
     print(calendar.month(int(user_input[1]), int(user_input[0])))
 else:
-    print("Enter month in M format and a year as YYYY")
+    print("Enter month in MM format and a year as YYYY")
